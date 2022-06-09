@@ -9,7 +9,3 @@ new_list
 "comment is created for the git examples"
 
 "next line of code only visible in the feature branch"
-gjhgjg
-jasdaghj
-hggjsdgjjkdg
-ghkjdsgsjgfjhdfjkdhjkf
