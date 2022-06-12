@@ -1,0 +1,9 @@
+Student : Good morning, sir.
+has--->5
+has--->1Teacher : Good morning.
+has--->4
+has--->1Student : Sir, my examination is round the corner. Can you give me some instructions as to how I should prepare?
+has--->21
+has--->1Teacher : Certainly! But at first, get rid of your mobile. That is a major distraction.
+has--->16
+has--->1Student : Ok, sir.has--->4
